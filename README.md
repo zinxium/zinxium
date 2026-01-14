@@ -16,7 +16,7 @@
  -- 
  ### :woman_technologist: About Me :
 
-- :👋: Hi, I’m Cynthia Zinsou
+- :👋: Hi, I’m Zinxium
 - :👀: I’m interested in mechatronics(Robotics)
 - :🌱: I’m currently learning computer science
 - :😉:   I spend time making researches on some topics i found curious
@@ -47,10 +47,10 @@
 <div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cyndzx02&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zinxium&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 
    
    ### Langs
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyndzx02&layout=pie&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyndzx02&size_weight=0.5&count_weight=0.5)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zinxium&layout=pie&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zinxium&size_weight=0.5&count_weight=0.5)
