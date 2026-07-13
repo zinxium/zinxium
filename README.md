@@ -13,7 +13,7 @@
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QzbjV1c2gzd3AwcDFxb2d1NTM1ZDZuMmJ6aTdncHBwZGd6eDY0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"/>
 </div>
 </div>
- -- 
+ 
  ### :woman_technologist: About Me :
 
 - :👋: Hi, I’m Zinxium
